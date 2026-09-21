@@ -8,6 +8,7 @@
 
 - 原典：KanjiVG（Copyright (C) 2009-2013 Ulrich Apel） http://kanjivg.tagaini.net
 - 原典の版：20250816
+- 公開先：https://github.com/erosegalaxy/kakitori-stroke-data
 - このデータも同じ CC BY-SA 3.0 で配布する。
 
 ## 改変した内容
