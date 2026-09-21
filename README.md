@@ -43,7 +43,7 @@
   "gradeLevel": 1,
   "strokeCount": 5,
   "source": { "dataset": "KanjiVG", "version": "20250816", "license": "CC BY-SA 3.0" },
-  "strokes": [ { "type": "㇒", "points": [[0.4908, 0.1972], ...] } ]
+  "strokes": [ { "strokeType": "㇒", "points": [[0.4908, 0.1972], ...] } ]
 }
 ```
 
