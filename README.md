@@ -4,12 +4,26 @@
 
 ## ライセンス
 
-[Creative Commons Attribution-Share Alike 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+[Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)（条文：https://creativecommons.org/licenses/by-sa/4.0/legalcode）
 
 - 原典：KanjiVG（Copyright (C) 2009-2013 Ulrich Apel） http://kanjivg.tagaini.net
 - 原典の版：20250816
+- 原典のライセンス：CC BY-SA 3.0（http://creativecommons.org/licenses/by-sa/3.0/）。
+  CC BY-SA 3.0 の 4(b) は、改変したものを同じ要素を持つ後の版のライセンスで配布することを認めている。
+  学年（`gradeLevel`）が KANJIDIC2（CC BY-SA 4.0）に由来するので、このデータは CC BY-SA 4.0 で配布する。
+  原典のライセンス表示は `KANJIVG-COPYING` にそのまま置いてある。
 - 公開先：https://github.com/erosegalaxy/kakitori-stroke-data
-- このデータも同じ CC BY-SA 3.0 で配布する。
+
+## 学年（`gradeLevel`）の出典
+
+`gradeLevel` の値と、対象の1026字の選び方は、KANJIDIC2 の学年（`grade`）による。
+
+このデータは KANJIDIC2 の辞書ファイルを使っている。KANJIDIC2 は
+[Electronic Dictionary Research and Development Group](https://www.edrdg.org/) の所有物で、
+同グループの[ライセンス](https://www.edrdg.org/edrdg/licence.html)（CC BY-SA 4.0）に従って使っている。
+
+- KANJIDIC Project：https://www.edrdg.org/wiki/index.php/KANJIDIC_Project
+- ライセンス：https://www.edrdg.org/edrdg/licence.html
 
 ## 改変した内容
 
@@ -34,5 +48,6 @@
 ```
 
 `strokes` は筆順どおりに並ぶ。`points` は書き始めから書き終わりの順。
+`source` は原典（KanjiVG）の情報で、`license` は原典のライセンスを表す。
 
 生成日：2026-09-21
